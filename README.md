@@ -10,7 +10,7 @@ This project involves performing data analysis on Walmart sales data using SQL. 
 ## Key Questions Addressed
 The analysis focuses on answering the following key business questions:
 
-1. **	What is the total revenue by month?**
+1. **What is the total revenue by month?**
 2. **What is the most selling product line?**
 3. **What month had the largest COGS?**
 4. **What product line had the largest revenue?**
